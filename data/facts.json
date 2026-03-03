@@ -1,0 +1,91 @@
+[
+  {
+    "number": 100,
+    "suffix": "+",
+    "description": "Төсөл, хөтөлбөр",
+    "image": "/images/jobs.png",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Хэрэгжүүлсэн төслүүд",
+      "href": "#",
+      "iconClass": "ph-bold ph-arrow-up-right",
+      "btnClass": "btn btn-anim btn-default btn-outline opposite slide-right-up"
+    },
+    "cardClass": "mxd-stats-cards__inner align-end bg-accent radius-m padding-4",
+    "counterId": "stats-counter-1",
+    "numberClass": "mxd-counter__number mxd-stats-number opposite",
+    "descrClass": "mxd-counter__descr t-140 t-bright opposite",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-1",
+    "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+  },
+  {
+    "number": 80,
+    "suffix": "k+",
+    "description": "Харилцагч",
+    "image": "/images/mobile.jpg",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "avatars": [
+      {
+        "src": "/images/avatars/300x300_ava-01.png",
+        "alt": "Avatar",
+        "width": 300,
+        "height": 300
+      },
+      { "svg": true },
+      {
+        "src": "/images/avatars/300x300_ava-02.png",
+        "alt": "Avatar",
+        "width": 300,
+        "height": 300
+      }
+    ],
+    "cardClass": "mxd-stats-cards__inner align-end bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-2",
+    "numberClass": "mxd-counter__number mxd-stats-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-2",
+    "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+  },
+  {
+    "number": 10,
+    "suffix": "T+",
+    "description": "Татан төвлөрүүлсэн",
+    "image": "/images/illustrations/800x800_card-image-03.jpg",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Хэрэгжүүлсэн төслүүд",
+      "href": "#",
+      "iconClass": "ph-bold ph-arrow-down-right",
+      "btnClass": "btn btn-anim btn-default btn-outline slide-right-down"
+    },
+    "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-3",
+    "numberClass": "mxd-counter__number mxd-stats-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-3",
+    "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+  },
+  {
+    "number": 40,
+    "suffix": "+",
+    "description": "Ажилтантай",
+    "image": "/images/illustrations/800x800_service-image-06.png",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Манайхан",
+      "href": "#",
+      "iconClass": "ph-bold ph-arrow-up-right",
+      "btnClass": "btn btn-anim btn-default btn-outline slide-right-up"
+    },
+    "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-4",
+    "numberClass": "mxd-counter__number mxd-stats-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-4",
+    "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+  }
+]

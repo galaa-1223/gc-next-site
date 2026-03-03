@@ -50,10 +50,10 @@ export default function Footer() {
       {/* Footer Background Start */}
       <div className="mxd-demo-footer__bg">
         <Image
-          alt="Rayo Image"
+          alt="Golomt capital"
           width={1920}
           height={580}
-          src="/img/demo/01-footer.webp"
+          src="/images/01-footer.webp"
         />
       </div>
       {/* Footer Background End */}
@@ -202,7 +202,7 @@ export default function Footer() {
                         alt="Golomt capital trader"
                         width={180}
                         height={180}
-                        src="/img/demo/icon-gc.png"
+                        src="/images/icons/icon-gc.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
                         Trader - Арилжаанд оролцох 
@@ -218,7 +218,7 @@ export default function Footer() {
                         alt="Download on the App Store"
                         width={180}
                         height={180}
-                        src="/img/demo/icon-ios.png"
+                        src="/images/icons/icon-ios.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
                         App Store
@@ -234,7 +234,7 @@ export default function Footer() {
                         alt="Get it on Google Play"
                         width={500}
                         height={500}
-                        src="/img/demo/icon-play.png"
+                        src="/images/icons/icon-play.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
                         Google Play
@@ -250,7 +250,7 @@ export default function Footer() {
                         alt="Free and secure calls and messages to anyone, anywhere"
                         width={500}
                         height={500}
-                        src="/img/demo/icon-viber.png"
+                        src="/images/icons/icon-viber.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
                         Viber суваг
@@ -266,7 +266,7 @@ export default function Footer() {
                         alt="WeChat суваг"
                         width={500}
                         height={500}
-                        src="/img/demo/icon-wechat.png"
+                        src="/images/icons/icon-wechat.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
                         WeChat суваг

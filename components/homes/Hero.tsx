@@ -16,9 +16,9 @@ export default function Hero() {
                   autoPlay
                   loop
                   muted
-                  poster="video/1920x1080_video-03.webp"
+                  poster="/video/1920x1080_video-03.webp"
                 >
-                  <source type="video/mp4" src="video/promo.mp4" />
+                  <source type="video/mp4" src="/video/promo.mp4" />
                   {/* <source
                     type="video/webm"
                     src="video/1920x1080_video-03.webm"
@@ -107,7 +107,7 @@ export default function Hero() {
                         <Image
                           className="btn-rotating__image"
                           alt="Object"
-                          src="/img/icons/300x300_obj.png"
+                          src="/images/icons/300x300_obj.png"
                           width={300}
                           height={300}
                         />
@@ -184,7 +184,7 @@ export default function Hero() {
               <Image
                 className="btn-rotating__image"
                 alt="Object"
-                src="/img/icons/300x300_obj-btn-03.webp"
+                src="/images/icons/300x300_obj-btn-03.webp"
                 width={300}
                 height={300}
               />

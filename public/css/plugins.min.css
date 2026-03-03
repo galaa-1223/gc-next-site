@@ -47224,7 +47224,7 @@ button.swiper-pagination-bullet {
 .pswp__button,
 .pswp__button--arrow--left:before,
 .pswp__button--arrow--right:before {
-  background: url(/img/default-skin.html) 0 0 no-repeat;
+  background: url(/images/default-skin.html) 0 0 no-repeat;
   -moz-background-size: 264px 88px;
   background-size: 264px 88px;
   width: 44px;
@@ -47239,7 +47239,7 @@ button.swiper-pagination-bullet {
   .pswp--svg .pswp__button,
   .pswp--svg .pswp__button--arrow--left:before,
   .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(/img/default-skin-2.html);
+    background-image: url(/images/default-skin-2.html);
   }
   .pswp--svg .pswp__button--arrow--left,
   .pswp--svg .pswp__button--arrow--right {
@@ -47488,7 +47488,7 @@ a.pswp__share--download:hover {
   opacity: 1;
 }
 .pswp__preloader--active .pswp__preloader__icn {
-  background: url(/img/preloader.html) 0 0 no-repeat;
+  background: url(/images/preloader.html) 0 0 no-repeat;
 }
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1;
