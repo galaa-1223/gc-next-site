@@ -19,7 +19,7 @@ export default function Blogs({
               <div className="row g-0">
                 <div className="col-12 col-xl-5 mxd-grid-item no-margin">
                   <div className="mxd-section-title__hrtitle">
-                    <RevealText as="h2" className="reveal-type anim-uni-in-up">
+                    <RevealText as="h4" className="reveal-type anim-uni-in-up">
                       {title}
                     </RevealText>
                   </div>
@@ -53,7 +53,7 @@ export default function Blogs({
                 {blogs1.map((item, idx) => (
                   <div
                     key={idx}
-                    className="col-12 col-xl-4 mxd-blog-preview__item mxd-grid-item animate-card-3"
+                    className="col-12 col-xl-3 mxd-blog-preview__item mxd-grid-item animate-card-4"
                   >
                     <Link
                       className="mxd-blog-preview__media"

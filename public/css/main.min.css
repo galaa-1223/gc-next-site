@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300..800&amp;display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300..800;1,300..800&display=swap);
 :root {
-  --_size: 1.8rem;
+  --_size: 1rem;
   --_font-default: "Fira Sans", sans-serif;
   --_font-accent: "Fira Sans Condensed", sans-serif;
   --_radius-s: 1rem;
@@ -2089,7 +2089,7 @@ p.t-semibold {
 }
 @media only screen and (min-width: 768px) {
   .mxd-manifest {
-    font-size: 4.4rem;
+    font-size: 2.5rem;
   }
 }
 @media only screen and (min-width: 1600px) {
@@ -5803,24 +5803,24 @@ form textarea:required:valid {
   transform: rotate(135deg);
 }
 .main-menu__link {
-  height: 4.2rem;
-  line-height: 4.2rem;
+  height: 3rem;
+  line-height: 3rem;
   font: normal var(--fw-medium-opp) 3.6rem var(--_font-accent);
   color: var(--t-opp-bright);
 }
 .main-menu__link .btn-caption {
-  height: 4.2rem;
-  line-height: 4.2rem;
+  height: 3rem;
+  line-height: 3rem;
 }
 @media only screen and (min-width: 1200px) {
   .main-menu__link {
-    font-size: 5.6rem;
-    height: 6.5rem;
-    line-height: 6.5rem;
+    font-size: 4rem;
+    height: 4rem;
+    line-height: 4rem;
   }
   .main-menu__link .btn-caption {
-    height: 6.5rem;
-    line-height: 6.5rem;
+    height: 4rem;
+    line-height: 4rem;
   }
 }
 .main-menu__toggle {
@@ -6109,16 +6109,16 @@ form textarea:required:valid {
   -ms-flex-direction: column;
   flex-direction: column;
   gap: 6rem;
-  margin: 12.2rem 0 14rem 0;
+  margin: 5rem 0 7rem 0;
 }
 @media only screen and (min-width: 768px) {
   .mxd-promo__content {
-    margin: 14rem 0 16rem 0;
+    margin: 4rem 0 8rem 0;
   }
 }
 @media only screen and (min-width: 1600px) {
   .mxd-promo__content {
-    margin: 17.6rem 0 20rem 0;
+    margin:5rem 0 7rem 0;
   }
 }
 .mxd-promo__title {
@@ -6163,12 +6163,12 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 768px) {
   .mxd-promo__caption {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 @media only screen and (min-width: 1400px) {
   .mxd-promo__caption {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 }
 .mxd-promo__images {
@@ -6208,8 +6208,8 @@ form textarea:required:valid {
   .mxd-promo__images .promo-image-1 {
     width: 330px;
     height: auto;
-    right: 6rem;
-    bottom: 6rem;
+    right: 3rem;
+    bottom: 2rem;
   }
   .mxd-promo__images .promo-image-2 {
     width: 120px;
@@ -6226,8 +6226,8 @@ form textarea:required:valid {
 @media only screen and (min-width: 1600px) {
   .mxd-promo__images .promo-image-1 {
     width: 396px;
-    right: 9rem;
-    bottom: 9rem;
+    right: 4rem;
+    bottom: 3rem;
   }
   .mxd-promo__images .promo-image-2 {
     width: 140px;
@@ -16232,7 +16232,7 @@ form textarea:required:valid {
     margin-bottom: 2.9rem;
   }
   .mxd-awards-list__title p {
-    font-size: 4.4rem;
+    font-size: 3rem;
   }
 }
 @media only screen and (min-width: 1200px) {
@@ -16278,7 +16278,7 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1600px) {
   .mxd-awards-list__title p {
-    font-size: 4.4rem;
+    font-size: 3rem;
   }
 }
 .mxd-awards-list__icon {
@@ -17561,7 +17561,7 @@ form textarea:required:valid {
   -ms-flex-pack: center;
   justify-content: center;
   width: 380px;
-  height: 250px;
+  height: 150px;
 }
 .marquee__item.item-partners::before {
   content: "";
@@ -19017,7 +19017,7 @@ form textarea:required:valid {
 }
 .mxd-partners-cards__item {
   position: relative;
-  height: 250px;
+  height: 120px;
 }
 .mxd-partners-cards__inner {
   position: relative;
@@ -19342,7 +19342,7 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1600px) {
   .mxd-blog-preview__media {
-    height: 600px;
+    height: 400px;
   }
 }
 .mxd-blog-preview__image {
@@ -19426,7 +19426,7 @@ form textarea:required:valid {
 .mxd-blog-preview__data a {
   display: inline;
   font: normal var(--fw-regular) 2.2rem/1.2 var(--_font-accent);
-  line-height: 1.2;
+  line-height: 1;
   color: var(--t-medium);
   text-decoration: none;
   background:
@@ -19488,7 +19488,7 @@ form textarea:required:valid {
 @media only screen and (min-width: 1600px) {
   .mxd-blog-preview__data a,
   .mxd-blog-preview__data p {
-    font-size: 3rem;
+    font-size: 2.4rem;
   }
 }
 .mxd-accordion {

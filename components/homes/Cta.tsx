@@ -34,7 +34,7 @@ export default function Cta() {
                 <div className="mxd-promo__controls anim-uni-in-up">
                   <AnimatedButton
                     text="Бидэнтэй холбогдох"
-                    className="btn btn-anim btn-default btn-large btn-additional slide-right-up"
+                    className="btn btn-anim btn-default btn-additional slide-right-up"
                     href={`#`}
                   >
                     <i className="ph-bold ph-arrow-up-right" />

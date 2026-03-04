@@ -41,7 +41,7 @@ export default function Awards() {
               <div className="row g-0">
                 <div className="col-12 col-xl-6 mxd-grid-item no-margin">
                   <div className="mxd-section-title__hrtitle anim-uni-in-up">
-                    <RevealText as="h2" className="reveal-type">
+                    <RevealText as="h3" className="reveal-type">
                       Авсан
                       <br />
                       шагналууд

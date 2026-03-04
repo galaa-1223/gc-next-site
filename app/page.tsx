@@ -7,6 +7,7 @@ import Facts from "@/components/homes/Facts";
 import Hero from "@/components/homes/Hero";
 import Partners from "@/components/homes/Partners";
 import Services from "@/components/homes/Services";
+import MarqueeSlider from "@/components/homes/MarqueeSlider";
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <About />
         <Facts />
         <Services />
+        <MarqueeSlider />
         <Awards />
         <Blogs />
         <Cta />
